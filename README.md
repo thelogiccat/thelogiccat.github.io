@@ -28,4 +28,4 @@ Interesting trends, visualisations, and analysis.
 Where creativity meets science
 
 ## ⭐ Featured Articles
-  Coming soon!
+-[thelogiccat: Preface](intro.md)
