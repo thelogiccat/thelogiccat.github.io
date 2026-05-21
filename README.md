@@ -12,5 +12,5 @@ Exploring the intersection of STEM, art, computation, and curiosity through arti
 - Data, patterns, and creativity
 - Art + STEM intersections
 
-  ## Latest Articles
+## Latest Articles
   Coming soon!
