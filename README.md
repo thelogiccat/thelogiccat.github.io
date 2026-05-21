@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="logiccat logo.png" width="180">
+</p>
+
+# The Logic Cat
+
+### Where STEM meets creativity
+
+Exploring the intersection of STEM, art, computation, and curiosity through articles, explainers, and interdisciplinary ideas.
+
 # The Logic Cat
 
 ### Where STEM meets creativity
