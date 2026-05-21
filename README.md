@@ -1,3 +1,16 @@
-# thelogiccat
-Exploring the intersection of STEM, art, and analytics through articles, research, and curiosity. Writing about science, computation, creativity, logic behind things, and the hidden patterns that connect them.
-theme: minimal
+# The Logic Cat
+
+### Where STEM meets creativity
+
+Exploring the intersection of STEM, art, computation, and curiosity through articles, explainers, and interdisciplinary ideas.
+
+## Topics You’ll Find Here
+
+- Science explainers
+- Space and astronomy
+- Computer science and logic
+- Data, patterns, and creativity
+- Art + STEM intersections
+
+  ## Latest Articles
+  Coming soon!
