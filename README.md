@@ -2,7 +2,7 @@
   <img src="logiccat logo.png" width="180">
 </p>
 
-<h1 align="center">✨ The Logic Cat ✨</h1>
+<h1 align="center"> The Logic Cat </h1>
 
 <h3 align="center">
 STEM • Space • Art • Logic • Creativity
