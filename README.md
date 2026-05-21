@@ -7,6 +7,7 @@
 <h3 align="center">
 STEM • Space • Art • Logic • Creativity
 </h3>
+
 ## The Logic Cat
 
 ### Where STEM meets creativity
