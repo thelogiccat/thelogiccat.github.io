@@ -2,7 +2,7 @@
   <img src="logiccat logo.png" width="180">
 </p>
 
-# The Logic Cat
+# 🧠 The Logic Cat 
 
 ### Where STEM meets creativity
 
