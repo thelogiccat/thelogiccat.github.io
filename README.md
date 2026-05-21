@@ -2,7 +2,11 @@
   <img src="logiccat logo.png" width="180">
 </p>
 
-# 🧠 The Logic Cat 
+<h1 align="center">✨ The Logic Cat ✨</h1>
+
+<h3 align="center">
+STEM • Space • Art • Logic • Creativity
+</h3>
 
 ### Where STEM meets creativity
 
@@ -14,13 +18,18 @@ Exploring the intersection of STEM, art, computation, and curiosity through arti
 
 Exploring the intersection of STEM, art, computation, and curiosity through articles, explainers, and interdisciplinary ideas.
 
-## Topics You’ll Find Here
+## 🌌 Explore:
 
-- Science explainers
-- Space and astronomy
-- Computer science and logic
-- Data, patterns, and creativity
-- Art + STEM intersections
+- 🧪 **Science Explain​ers**  
+  Understanding difficult concepts simply
+- 💻 **Computer Science & Logic**  
+Programming, computational thinking, and ideas
+- 🚀 **Space & Astronomy**  
+Cosmos, physics, and discoveries
+- 📊 **Data & Patterns**  
+Interesting trends, visualisations, and analysis.
+- 🎨 **Art + STEM**  
+Where creativity meets science
 
-## Latest Articles
+## ⭐ Featured Articles
   Coming soon!
