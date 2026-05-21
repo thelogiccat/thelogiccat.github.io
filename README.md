@@ -8,7 +8,7 @@
 STEM • Space • Art • Logic • Creativity
 </h3>
 
-## 🐱‍💻The Logic Cat
+## 🐱‍💻thelogiccat
 
 ### Where STEM meets creativity
 
