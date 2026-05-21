@@ -7,12 +7,7 @@
 <h3 align="center">
 STEM • Space • Art • Logic • Creativity
 </h3>
-
-### Where STEM meets creativity
-
-Exploring the intersection of STEM, art, computation, and curiosity through articles, explainers, and interdisciplinary ideas.
-
-# The Logic Cat
+## The Logic Cat
 
 ### Where STEM meets creativity
 
