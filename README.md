@@ -21,7 +21,7 @@ A curiosity-driven corner of the internet exploring:
 - 📊 **Data & Patterns**  
 - 🎨 **Art + STEM**
 
- ## 🔭 Explore
+## 🔭 Explore
 
 ### 📖 About
 Learn what *The Logic Cat* is about.
