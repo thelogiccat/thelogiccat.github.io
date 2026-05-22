@@ -11,6 +11,7 @@ This website explores ideas across:
 - 🧠 Big Questions
 
 Why *TheLogicCat*?
+
 Cats symbolize curiosity. Logic symbolizes reasoning.
 Together, they represent thoughtful exploration of the world.
 
