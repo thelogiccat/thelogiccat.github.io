@@ -4,9 +4,9 @@
 
 <h1 align="center"> The Logic Cat </h1>
 
-<h3 align="center">
+<h2 align="center">
 STEM • Space • Art • Logic • Creativity
-</h3>
+</h2>
 
 ## 🐱‍💻thelogiccat
 
