@@ -12,22 +12,12 @@ body {
 
 /* Top Cayman header */
 .page-header {
-  background-image: url("/thelogiccat banner.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  position: relative;
-}
-
-/* Dark overlay so text stays readable */
-.page-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(10, 10, 30, 0.55);
-}
-
+  background: linear-gradient(
+      135deg,
+    #0f172a,
+    #1e1b4b,
+    #312e81
+  );
   box-shadow: 0 0 25px rgba(100, 90, 255, 0.25);
 }
 /* Main title */
@@ -41,7 +31,6 @@ body {
 .project-tagline {
   color: #c7d2fe;
 }
-
 /* Main content area */
 .main-content {
   background: rgba(255,255,255,0.04);
@@ -49,11 +38,11 @@ body {
   padding: 2rem;
   margin-top: 25px;
 }
+
 /* Headings */
-h1, h2 {
+h1, h2, h3 {
   color: #b4befe;
 }
-
 /* Links */
 a {
   color: #7dd3fc;
@@ -65,8 +54,9 @@ a:hover {
 
 /* Horizontal lines */
 hr {
-  border: 1px solid rgba(255,255,255,0.1);
+ border: 1px solid rgba(255,255,255,0.1);
 }
+
 /* Blockquotes */
 blockquote {
   color: #d1d5db;
