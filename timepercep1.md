@@ -1,9 +1,10 @@
----
-layout: post
-title: "Why Time Feels Faster as We Grow Older"
-date: 2026-05-22
-categories: psychology neuroscience perception
----
+
+Layout: post
+Title: "Why Time Feels Faster as We Grow Older"
+Author: Rahi Purkait
+Date: 2026-05-22
+Categories: psychology neuroscience perception
+
 
 # Why Time Feels Faster as We Grow Older
 
