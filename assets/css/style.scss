@@ -12,12 +12,30 @@ body {
 
 /* Top Cayman header */
 .page-header {
-  background: linear-gradient(
-    135deg,
-    #0f172a,
-    #1e1b4b,
-    #312e81
-  );
+  background-image: url("/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 7rem 1rem;
+
+  position: relative;
+}
+
+/* Dark overlay so text stays readable */
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 10, 30, 0.55);
+}
+
+/* Keep text above overlay */
+.project-name,
+.project-tagline {
+  position: relative;
+  z-index: 2;
+}
   box-shadow: 0 0 25px rgba(100, 90, 255, 0.25);
 }
 /* Main title */
