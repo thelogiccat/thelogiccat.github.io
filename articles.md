@@ -5,7 +5,7 @@ Welcome to the article archive.
 ## Featured
 
 ### 🌌 Introduction
-➡️ [The Logic Cat: Where Curiosity Meets Logic](intro.md)
+➡️ [thelogiccat: Preface](intro.md)
 
 ---
 
