@@ -1,6 +1,6 @@
-# About The Logic Cat
+# About thelogiccat
 
-Welcome to **The Logic Cat** — a place where science, logic, creativity, and curiosity come together.
+Welcome to **TheLogicCat** — a place where science, logic, creativity, and curiosity come together.
 
 This website explores ideas across:
 
