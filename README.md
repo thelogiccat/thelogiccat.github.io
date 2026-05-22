@@ -34,5 +34,7 @@ Explore explainers and curiosity-driven writing.
 ➡️ [Articles](articles.md)
 
 ## ⭐ Featured Articles
+
 -[thelogiccat: Preface](intro.md)
+
 -[Why Time Feels Faster As We Grow Older?](timepercep1.md)
